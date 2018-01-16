@@ -20,6 +20,7 @@ div#interface {
 a {
     color: #606060;
     text-decoration: underline;
+}
 
 p {
     text-align: justify;
@@ -32,7 +33,6 @@ header#cabecalho img#icone {
     margin-left: 742px;
     top: 70px;
 }
-
 header#cabecalho {
     border-bottom: 1px #606060 solid;
     height: 133px;
